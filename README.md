@@ -1,5 +1,5 @@
 # Lyric and Song Searcher 
-This is an online search engine used for finding any lyrics and any songs from all artists. 
+This is an online search engine for finding songs, artists and lyrics using the lyrics.ovh API
 
 ## Using the Application
 * Deployment URL: https://lyricsearch-542ee.web.app/
